@@ -9,4 +9,4 @@ My favorite programming languages ​​are Go, C and C++
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GlebTFD&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebTFD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ----->
