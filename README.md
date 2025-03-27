@@ -8,6 +8,7 @@ My favorite programming languages ​​are Go, C and C++
 ![](https://github-readme-stats.vercel.app/api?username=GlebTFD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GlebTFD&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebTFD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=GlebTFD&theme=redical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GlebTFD&icon=0&color=0)](https://visitcount.itsvg.in)
